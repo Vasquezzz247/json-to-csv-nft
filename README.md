@@ -101,14 +101,6 @@ token_id,name,description,image,external_url,animation_url,background_color,yout
 
 ---
 
-## 💡 Notes
-
-- Always make sure the `filename` column matches exactly the filenames of the images you uploaded (`1.png`, `2.png`, etc).  
-- OpenSea Studio requires one single CSV for the collection (with a header row).  
-- If in doubt, in Studio click **Download Example** to compare.  
-
----
-
 ## ❤️ Credits
 
 - Built by the [Yesquers NFT](https://opensea.io/collection/yesquers) team.  
